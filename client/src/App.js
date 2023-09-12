@@ -22,6 +22,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
+          this will be the landing page:
+          TODO: create login functionality
+          TODO: create homepage for authenticated users
         </p>
         <p className="App-intro">;{this.state.apiResponse}</p>
         <a
