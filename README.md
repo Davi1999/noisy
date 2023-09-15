@@ -9,8 +9,30 @@ It isn't meant to be some huge platform with millions of users. Just an experime
 ## Planning
 This area will be for general structure and feature planning.
 ### Tech Stack
-We will be using JavaScript for front and back end, with React as the frontend framework and Express.js as the backend framework.
-Still trying to decide on the database. Right now I'm between:
+This section will list the current and planned technologies and tools involved in the project.
+#### Front-End Structure
+- JavaScript
+- React
+- Bootstrap
+  
+#### Back-End Structure
+- JavaScript
+- Express.js
+
+#### Database
+I still haven't decided on a database yet.
+Database Options:
 - MySQL
 - PostgresSQL
 - MongoDB
+
+#### Deployment
+I want to host the project on the cloud somewhere, this decision may affect my database implementation as well. So figuring this out should be priority.
+Cloud hosting options:
+- AWS
+- GCP
+- Azure
+- IBM
+- Oracle
+  
+I will compare prices and features to determine the best fit for the project. Since I just want this to be a small project for displaying my technical abilities and not a widespread service, ideally, the hosting will be free.
