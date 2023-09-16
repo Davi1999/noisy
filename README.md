@@ -44,3 +44,16 @@ Cloud hosting options:
 - Oracle
   
 I will compare prices and features to determine the best fit for the project. Since I just want this to be a small project for displaying my technical abilities and not a widespread service, ideally, the hosting will be free.
+
+### TODO
+A list of tasks needed to be completed, in order of most important to least (Still Under construction):
+1. Figure out deployment/cloud hosting
+2. Figure out music content connection
+3. Configure Database
+  a. Music (Artists, Albums, Genres)
+  b. Users (usernames, passwords, content)
+  c. User interactions (friends, likes, comments)
+  d. more...
+4. Set up user authentication
+5. Set up user interactions
+6. more...
