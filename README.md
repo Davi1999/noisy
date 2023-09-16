@@ -26,6 +26,14 @@ Database Options:
 - PostgresSQL
 - MongoDB
 
+#### Music Content
+I need to figure out how I will generate music content for users to access. We need a database of albums, artists and genres.
+I know that I want to connect APIs for users to access the music they add to noisy and have the ability to access them on:
+- Spotify
+- Apple Music
+
+I'm just not sure about how I will implement the content which will be hosted on the platform.
+
 #### Deployment
 I want to host the project on the cloud somewhere, this decision may affect my database implementation as well. So figuring this out should be priority.
 Cloud hosting options:
