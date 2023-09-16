@@ -50,10 +50,10 @@ A list of tasks needed to be completed, in order of most important to least (Sti
 1. Figure out deployment/cloud hosting
 2. Figure out music content connection
 3. Configure Database
-  a. Music (Artists, Albums, Genres)
-  b. Users (usernames, passwords, content)
-  c. User interactions (friends, likes, comments)
-  d. more...
-4. Set up user authentication
-5. Set up user interactions
-6. more...
+    - Music (Artists, Albums, Genres)
+    - Users (usernames, passwords, content)
+    - User interactions (friends, likes, comments)
+    - more...
+5. Set up user authentication
+6. Set up user interactions
+7. more...
